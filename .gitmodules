@@ -1,27 +1,27 @@
 [submodule "Rank04-CPP-Module00"]
-	path = Rank04-CPP-Module00
+	path = Module00
 	url = git@github.com:42cursus-youkim/Rank04-CPP-Module00.git
 [submodule "Rank04-CPP-Module01"]
-	path = Rank04-CPP-Module01
+	path = Module01
 	url = git@github.com:42cursus-youkim/Rank04-CPP-Module01.git
 [submodule "Rank04-CPP-Module02"]
-	path = Rank04-CPP-Module02
+	path = Module02
 	url = git@github.com:42cursus-youkim/Rank04-CPP-Module02.git
 [submodule "Rank04-CPP-Module03"]
-	path = Rank04-CPP-Module03
+	path = Module03
 	url = git@github.com:42cursus-youkim/Rank04-CPP-Module03.git
 [submodule "Rank04-CPP-Module04"]
-	path = Rank04-CPP-Module04
+	path = Module04
 	url = git@github.com:42cursus-youkim/Rank04-CPP-Module04.git
 [submodule "Rank04-CPP-Module05"]
-	path = Rank04-CPP-Module05
+	path = Module05
 	url = git@github.com:42cursus-youkim/Rank04-CPP-Module05.git
 [submodule "Rank04-CPP-Module06"]
-	path = Rank04-CPP-Module06
+	path = Module06
 	url = git@github.com:42cursus-youkim/Rank04-CPP-Module06.git
 [submodule "Rank04-CPP-Module07"]
-	path = Rank04-CPP-Module07
+	path = Module07
 	url = git@github.com:42cursus-youkim/Rank04-CPP-Module07.git
 [submodule "Rank04-CPP-Module08"]
-	path = Rank04-CPP-Module08
+	path = Module08
 	url = git@github.com:42cursus-youkim/Rank04-CPP-Module08.git
