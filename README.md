@@ -1,6 +1,7 @@
 # 🇨➕➕
 ## Big kitchen sink repository to store CPP modules
 
+## Repositories
 - [📦 module 00](https://github.com/42cursus-youkim/Rank04-CPP-Module00)
 - [📦 module 01](https://github.com/42cursus-youkim/Rank04-CPP-Module01)
 - [📦 module 02](https://github.com/42cursus-youkim/Rank04-CPP-Module02)
@@ -10,3 +11,14 @@
 - [📦 module 06](https://github.com/42cursus-youkim/Rank04-CPP-Module06)
 - [📦 module 07](https://github.com/42cursus-youkim/Rank04-CPP-Module07)
 - [📦 module 08](https://github.com/42cursus-youkim/Rank04-CPP-Module08)
+
+## Subject PDFs
+- [📄 module 00](https://cdn.intra.42.fr/pdf/pdf/49413/en.subject.pdf)
+- [📄 module 01](https://cdn.intra.42.fr/pdf/pdf/49416/en.subject.pdf)
+- [📄 module 02](https://cdn.intra.42.fr/pdf/pdf/49417/en.subject.pdf)
+- [📄 module 03](https://cdn.intra.42.fr/pdf/pdf/49420/en.subject.pdf)
+- [📄 module 04](https://cdn.intra.42.fr/pdf/pdf/49422/en.subject.pdf)
+- [📄 module 05](https://cdn.intra.42.fr/pdf/pdf/49424/en.subject.pdf)
+- [📄 module 06](https://cdn.intra.42.fr/pdf/pdf/49426/en.subject.pdf)
+- [📄 module 07](https://cdn.intra.42.fr/pdf/pdf/49429/en.subject.pdf)
+- [📄 module 08](https://cdn.intra.42.fr/pdf/pdf/49432/en.subject.pdf)
