@@ -1,0 +1,8 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": [
+      ".github/workflows/*",
+      "file:///home/scarf/Repo/cpp/.github/workflows/submodule_update.yml"
+    ]
+  }
+}
