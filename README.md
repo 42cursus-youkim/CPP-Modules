@@ -22,3 +22,14 @@
 - [📄 module 06](https://cdn.intra.42.fr/pdf/pdf/49426/en.subject.pdf)
 - [📄 module 07](https://cdn.intra.42.fr/pdf/pdf/49429/en.subject.pdf)
 - [📄 module 08](https://cdn.intra.42.fr/pdf/pdf/49432/en.subject.pdf)
+
+## READMEs
+- [🔗 module 00](Module00/README.md)
+- [🔗 module 01](Module01/README.md)
+- [🔗 module 02](Module02/README.md)
+- [🔗 module 03](Module03/README.md)
+- [🔗 module 04](Module04/README.md)
+- [🔗 module 05](Module05/README.md)
+- [🔗 module 06](Module06/README.md)
+- [🔗 module 07](Module07/README.md)
+- [🔗 module 08](Module08/README.md)
