@@ -3,8 +3,8 @@
 update_submodules() {
   for module in Module*/; do
     git -C $module checkout main \
-    && git -C $module pull \
-    && git -C $module&
+    && git -C $module pull origin main \
+    && git -C $module push origin main &
   done
 }
 
