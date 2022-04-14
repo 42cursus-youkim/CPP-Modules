@@ -1,5 +1,6 @@
 # 🇨➕➕
 ## Big kitchen sink repository to store CPP modules
+[![youkim's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2561337)](https://github.com/JaeSeoKim/badge42)
 
 ## Repositories
 - [📦 module 00](https://github.com/42cursus-youkim/Rank04-CPP-Module00)
